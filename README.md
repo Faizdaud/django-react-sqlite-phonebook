@@ -4,14 +4,14 @@
 2. localhost: 3001 for FrontEnd(React)
 
 ## Setting Up BackEnd
-1. In cmd of the project folder, activate the virtual enviroment with command: source env1/Scripts/activate
-2. change directory to backendapi folder: cd backendapi
-3. in directory of the backend api folder, run python -m pip install Django
+1. In terminal/command path of the project folder, activate the virtual enviroment with command: source env1/Scripts/activate
+2. Change directory to backendapi folder: cd backendapi
+3. In directory of the backend api folder, run python -m pip install Django
 4. Start the server with the command py manage.py runserver
 
-
 ## Setting Up FrontEnd
-1. Open another terminal (yes we are going to need more than 1)
-2. cd to frontend_phone_book
-3. npm install
-4. start server with npm start
+1. Open another terminal (yes,we are going to need more than 1)
+2. Change directory to frontend_phone_book: cd frontend_phone_book
+3. Install Npm with command: npm install
+4. Start the server with command: npm start
+5. *If you start the frontend server first before the backend server, you would need to refresh the web page(localhost:3001)
