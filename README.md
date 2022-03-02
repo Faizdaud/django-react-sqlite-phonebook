@@ -9,7 +9,7 @@
 3. In directory of the backend api folder, run python -m pip install Django 
 4. Start the server with the command py manage.py runserver
 
-*make sure you hace django installed in your computer first(If not use command: pip3 install djangorestframework in terminal)
+*make sure you hace django installed in your computer first(If not use command: pip3 install djangorestframework in terminal)<br/>
 *If there is any cors error use command: pip install django-cors-headers in terminal to fix it
 
 ## Setting Up FrontEnd
